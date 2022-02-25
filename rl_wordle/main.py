@@ -37,4 +37,4 @@ for attempt in range(1, 7):
         break
 
         
-
+print(f'you are failed ... The answer is {word}.')
